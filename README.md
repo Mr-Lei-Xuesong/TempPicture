@@ -1,7 +1,7 @@
 # TempPicture
 这是测试图片
 
-![](.\img\53035356.jpg)
+![测试图片](https://github.com/Mr-Lei-Xuesong/TempPicture/blob/main/img/1234567.jpg?raw=true)
 
 
 
